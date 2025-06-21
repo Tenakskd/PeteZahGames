@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "educational-u-x-v": "^1.0.11",
+    "educational-u-x-v": "github:tenakskd/educational-x-u-v",
     "@tomphttp/bare-server-node": "^2.0.5",
     "wisp-server-node": "^1.1.3",
     "@mercuryworkshop/bare-mux": "^2.0.3",
