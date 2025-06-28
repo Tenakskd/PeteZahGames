@@ -1,7 +1,7 @@
 import { createBareServer } from "@tomphttp/bare-server-node";
 import express from "express";
 import { createServer } from "node:http";
-import { uvPath } from "@titaniumnetwork-dev/ultraviolet";
+import { uvPath } from "ultraviolet";
 import path, { join } from "node:path";
 import { hostname } from "node:os";
 import { fileURLToPath } from "node:url";
